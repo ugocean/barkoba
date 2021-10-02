@@ -1,2 +1,2 @@
 TÁRGY?= NEM
-ÉLŐLÉNY?=
+ÉLŐLÉNY?= IGEN
