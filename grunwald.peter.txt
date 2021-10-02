@@ -1,1 +1,1 @@
-TÁRGY?=
+TÁRGY?= NEM
