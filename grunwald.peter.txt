@@ -1,2 +1,3 @@
 TÁRGY?= NEM
 ÉLŐLÉNY?= IGEN
+ÁLLAT?=
